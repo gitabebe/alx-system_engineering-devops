@@ -52,16 +52,16 @@
   * [14-copy_html](./14-copy_html): a script that copies all HTML files from the current  working directory to the parent of the working directory, but only those that  did not exist in the parent directory or were newer than the versions in the parent working directory.
 
 * **15. Let’s move**
-  * [15-lets_move](./15-lets_move): a script that moves all files beginning with an uppercase  letter to the directory `/tmp/u`.
+  * [100-lets_move](./100-lets_move): a script that moves all files beginning with an uppercase  letter to the directory `/tmp/u`.
 
 * **16. Clean Emacs**
-  * [16-clean_emacs](./16-clean_emacs): a script that deletes all files in the current working  directory that end with the character `~`.
+  * [101-clean_emacs](./101-clean_emacs): a script that deletes all files in the current working  directory that end with the character `~`.
 
 * **17. Tree**
-  * [17-tree](./17-tree): a script that creates the directories `welcome/`,  `welcome/to/` and `welcome/to/holberton` in the current directory.
+  * [102-tree](./102-tree): a script that creates the directories `welcome/`,  `welcome/to/` and `welcome/to/holberton` in the current directory.
 
 * **18. Life is a series of commas, not periods**
-  * [18-commas](./18-commas): lists all files and directories of the current  directory, including hidden ones, as follows:
+  * [103-commas](./103-commas): lists all files and directories of the current  directory, including hidden ones, as follows:
     * Separated by commas (`,`).
     * Directory names end with a slash (`/`).
     * Alpha-ordered, except for the directories `.` and `..` which are listed at the beginning.
