@@ -58,7 +58,7 @@
   * [101-clean_emacs](./101-clean_emacs): a script that deletes all files in the current working  directory that end with the character `~`.
 
 * **17. Tree**
-  * [102-tree](./102-tree): a script that creates the directories `welcome/`,  `welcome/to/` and `welcome/to/holberton` in the current directory.
+  * [102-tree](./102-tree): a script that creates the directories `welcome/`,  `welcome/to/` and `welcome/to/school` in the current directory.
 
 * **18. Life is a series of commas, not periods**
   * [103-commas](./103-commas): lists all files and directories of the current  directory, including hidden ones, as follows:
